@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.delet{
+    text-align:right;
+    align-items: center;
+    
+}
